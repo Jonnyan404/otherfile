@@ -28,4 +28,7 @@ markdown-it-py==3.0.0
 linkify-it-py==2.0.3
 redis==5.1.0
 nh3==0.2.18
+Authlib==1.4.0
+django-filter==24.3
+boto3==1.36.5
 mysqlclient
