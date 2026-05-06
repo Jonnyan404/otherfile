@@ -33,4 +33,5 @@ django-filter==24.3
 boto3==1.36.5
 markitdown[all]
 pypinyin
-mysqlclient
+qdrant-client
+bleach
