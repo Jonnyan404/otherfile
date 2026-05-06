@@ -35,3 +35,4 @@ markitdown[all]
 pypinyin
 qdrant-client
 bleach
+mysqlclient
