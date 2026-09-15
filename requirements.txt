@@ -34,5 +34,6 @@ boto3==1.36.5
 markitdown[all]
 pypinyin
 qdrant-client
+lancedb
 bleach
-mysqlclient
+gunicorn
